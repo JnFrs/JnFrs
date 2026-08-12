@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jordan 👋
 
-<!--
-**JnFrs/JnFrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Software Engineer** focused on building production web applications, scalable backend systems, and user-facing products.
 
-Here are some ideas to get you started:
+Currently building **[LineLess](https://lineless.io)** — a mobile ordering platform designed for high-volume venues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Frontend:** React · TypeScript · JavaScript  
+**Backend:** Java · Spring Boot · Node.js · REST APIs  
+**Data:** PostgreSQL · SQL  
+**Infrastructure & Tools:** Docker · Git · Vercel  
+**Product integrations:** Stripe · WebSockets / real-time systems
+
+### 🚀 What I'm working on
+
+- Building and scaling **LineLess**
+- Designing full-stack architectures from frontend to database
+- Working on real-time and event-driven application flows
+- Exploring AI-assisted product development and engineering workflows
+
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/jordan-francoisslama/) · [LineLess](https://lineless.io)
